@@ -1,6 +1,6 @@
 Aleksander Kurchev
 ==================
-![My photo](https://sun9-15.userapi.com/impg/UsbvNNL9xRH60PfOAK2SWKwDoewu6W1Z-g-J2g/hTuk1MI5jAA.jpg?size=1516x1031&quality=95&sign=0de28bcfa30138f2cdff7f1be9110bc5&type=album)
+![My photo](https://sun9-15.userapi.com/impg/UsbvNNL9xRH60PfOAK2SWKwDoewu6W1Z-g-J2g/hTuk1MI5jAA.jpg?size=1516x1031&quality=95&sign=0de28bcfa30138f2cdff7f1be9110bc5&type=album "My photo")
 
 Contacts
 --------
