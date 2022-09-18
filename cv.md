@@ -12,6 +12,10 @@ Contacts
 * __Telegram:__ [@Kurchev_Aleks](https://t.me/Kurchev_Aleks "Telegram")
 * __Linkedin:__ [Александр Курчёв](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D1%83%D1%80%D1%87%D1%91%D0%B2-700710197/ "Linkedin profile")
 
+About Me
+--------
+I'am 32 years old. At the beginning of 2020, I graduated from the online course "Fundamentals of Software Testing". I worked as a freelancer for a while and decided to move on. I continue to study English and I'am studying for a frontend developer (JavaScript) at RS School.
+
 Skills
 ------
 + Windows OS
@@ -39,7 +43,8 @@ Education
 
 Experience
 -----
-I've no experience as a jonior Dev
+[My CV](https://github.com/Sanek1990?tab=projects "My projects")
+
 Languages
 ----
 + __Russian__ Native
