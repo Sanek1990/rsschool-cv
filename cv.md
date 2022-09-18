@@ -38,11 +38,11 @@ function multiply(a, b) {
 
 Education
 -------
-- [Civil Protection University of the Ministry of Emergency Situations of the Republic of Belarus](https://ucp.by/ "UNIVERSITY OF CIVIL PROTECTION")  
++ [Civil Protection University of the Ministry of Emergency Situations of the Republic of Belarus](https://ucp.by/ "UNIVERSITY OF CIVIL PROTECTION")  
     [*Engineer for the prevention and elimination of emergency situations*](https://disk.yandex.ru/i/bKQUQjNw1o18tw "diploma")
-- [QA Academy](https://qa-academy.by/ "QA Academy") "Basics of Software Testing"  
++ [QA Academy](https://qa-academy.by/ "QA Academy") "Basics of Software Testing"  
     [*QA Engineer*](https://disk.yandex.ru/i/_3PNz15qPzZ7WA "certificate")
-- [Code Basics](https://ru.code-basics.com/ "Code Basics"), [htmlacademy](https://htmlacademy.ru/study "htmlacademy"), [Hexlet](https://ru.hexlet.io/my "Hexlet")
++ [Code Basics](https://ru.code-basics.com/ "Code Basics"), [htmlacademy](https://htmlacademy.ru/study "htmlacademy"), [Hexlet](https://ru.hexlet.io/my "Hexlet")
 
 Experience
 -----
