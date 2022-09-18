@@ -35,8 +35,9 @@ function multiply(a, b) {
  return a * b;
 };
 ```
+
 Education
-----
+-------
 - [Civil Protection University of the Ministry of Emergency Situations of the Republic of Belarus](https://ucp.by/ "UNIVERSITY OF CIVIL PROTECTION")  
     [*Engineer for the prevention and elimination of emergency situations*](https://disk.yandex.ru/i/bKQUQjNw1o18tw "diploma")
 - [QA Academy](https://qa-academy.by/ "QA Academy") "Basics of Software Testing"  
