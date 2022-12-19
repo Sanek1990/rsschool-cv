@@ -32,6 +32,10 @@ body {
     list-style-type: none;
 }
 .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration: none;
     text-transform: uppercase;
     color: #1C1C1C;
 }
