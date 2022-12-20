@@ -49,13 +49,26 @@ body {
 }
 .section-profile {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 100%;
 }
 .profile {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.profile-title {
+    font: 50px italic;
+    letter-spacing: 3px;
+}
+.profile-subtitle {
+    font: 25px lighter;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.profile-photo {
+    width: 450px;
+    border-radius: 50%;
 }
 .footer-flex {
     display: flex;
