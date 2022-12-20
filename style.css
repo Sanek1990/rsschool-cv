@@ -95,3 +95,6 @@ body {
 footer {
     background-color: #B8860B;
 }
+p {
+    line-height: 2em;
+}
