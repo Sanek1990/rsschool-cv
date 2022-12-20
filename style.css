@@ -76,5 +76,8 @@ body {
 }
 .img-footer {
     width: 121px;
-    height: 45px;
+    height: 52px;
+}
+footer {
+    background-color: #B8860B;
 }
