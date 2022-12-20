@@ -31,6 +31,10 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.section {
+    width: 50%;
+    padding: 15px;
+}
 .nav-list {
     display: flex;
     justify-content: space-evenly;
