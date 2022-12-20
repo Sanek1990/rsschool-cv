@@ -51,3 +51,11 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.img-footer {
+    width: 121px;
+    height: 45px;
+}
